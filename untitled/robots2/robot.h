@@ -111,6 +111,6 @@ public:
     void get_map_from_collector(robot_map got_one);
     void take_fixes(const shared_command c);
 };
-
+ //Todo some basic staff
 
 #endif //ROBOTS2_ROBOT_H

@@ -1,0 +1,3 @@
+/Users/katya/CLionProjects/untitled/AVM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/katya/CLionProjects/untitled/AVM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/katya/CLionProjects/untitled/AVM/cmake-build-debug/CMakeFiles/AVM.dir

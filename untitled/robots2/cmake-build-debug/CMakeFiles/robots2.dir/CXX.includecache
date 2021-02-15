@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/katya/CLionProjects/untitled/robots2/main.cpp
+iostream
+-
+time.h
+-
+map.h
+/Users/katya/CLionProjects/untitled/robots2/map.h
+robot.h
+/Users/katya/CLionProjects/untitled/robots2/robot.h
+
+/Users/katya/CLionProjects/untitled/robots2/map.h
+string
+-
+vector
+-
+random
+-
+iostream
+-
+time.h
+-
+
+/Users/katya/CLionProjects/untitled/robots2/robot.cpp
+robot.h
+/Users/katya/CLionProjects/untitled/robots2/robot.h
+
+/Users/katya/CLionProjects/untitled/robots2/robot.h
+map.h
+/Users/katya/CLionProjects/untitled/robots2/map.h
+string
+-
+iostream
+-
+cmath
+-
+
